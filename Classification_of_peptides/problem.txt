@@ -1,0 +1,4 @@
+Students need to participate in Kaggle competition created for this assignment. In this competition, student need to classify fixed length peptides in 8 classes. It is a multi-class classification problem, which can be solved using one vs rest approach. These peptides have 16 amino acids. This is a group activity, each student should make a team at Kaggle with his/her group name. Final prediction/output, Python code and detail should be submitted as assignment (single zip file) here at google classroom. Evaluation will be based performance on accuracy at Kaggle site and submitted python codes. Please remember that python code should be well documented, as well as professional style (including command level options). Student can use machine or deep learning for classification. You may join this competition using following url
+
+Kaggle: Your Home for Data Science
+https://www.kaggle.com/t/90832a1dbe8048d0a9b
